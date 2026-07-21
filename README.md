@@ -37,6 +37,7 @@ This project was created to practice front-end web development by designing a co
 
 ## 📂 Project Structure
 
+```text
 malakand-express-travels/
 │
 ├── css/
@@ -58,7 +59,8 @@ malakand-express-travels/
 │   └── homepage.png
 │
 └── README.md
-
+```
+---
 ## 🚀 How to Run
 
 1. Clone the repository
