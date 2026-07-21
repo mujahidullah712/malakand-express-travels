@@ -37,21 +37,27 @@ This project was created to practice front-end web development by designing a co
 
 ## 📂 Project Structure
 
-```
 malakand-express-travels/
 │
 ├── css/
 │   └── style.css
 │
+├── html/
+│   ├── index.html
+│   ├── bus_img.png
+│   ├── front_view.png
+│   ├── gallery1.jpg
+│   ├── gallery2.jpg
+│   ├── gallery3.jpg
+│   └── ... (other website images)
+│
 ├── javascript/
 │   └── script.js
 │
-└── html/
-    ├── index.html
-    ├── images...
-```
-
----
+├── images/
+│   └── homepage.png
+│
+└── README.md
 
 ## 🚀 How to Run
 
